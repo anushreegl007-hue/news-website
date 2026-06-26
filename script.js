@@ -1,1 +1,1 @@
-alert("Welcome to News Website!");
+alert("Welcome to Daily News Portal - AFE Project");
